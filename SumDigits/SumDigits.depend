@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1681470850 source:c:\users\mert\onedrive\belgeler\c folder\sumdigits\sumdigits1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1681471006 source:c:\users\mert\onedrive\belgeler\c folder\sumdigits\sumdigits2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

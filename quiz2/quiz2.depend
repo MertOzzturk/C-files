@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1681473054 source:c:\users\mert\onedrive\belgeler\c folder\quiz2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1681475396 source:c:\users\mert\onedrive\belgeler\c folder\quiz2\quiz2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1681475385 source:c:\users\mert\onedrive\belgeler\c folder\quiz2\deneme.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
