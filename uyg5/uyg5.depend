@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1681852423 source:c:\users\mert\onedrive\belgeler\c folder\uyg5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1681853060 source:c:\users\mert\onedrive\belgeler\c folder\uyg5\uyg5.2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1681854251 source:c:\users\mert\onedrive\belgeler\c folder\uyg5\sumdigits2.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1681854697 source:c:\users\mert\onedrive\belgeler\c folder\uyg5\5.3.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

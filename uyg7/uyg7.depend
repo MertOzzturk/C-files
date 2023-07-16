@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1684166204 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684165006 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\7.2.c
+	<stdio.h>
+	<stdlib.h>
+
+1684166199 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\7.3.c
+	<stdio.h>
+	<stdlib.h>
+
+1684168642 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\7.4.c
+	<stdio.h>
+	<stdlib.h>
+
+1684170458 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\chartype.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1684171780 source:c:\users\mert\onedrive\belgeler\c folder\uyg7\fibonaccifunction.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

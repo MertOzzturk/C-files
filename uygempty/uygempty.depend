@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680864407 source:c:\users\mert\onedrive\belgeler\c folder\uygempty\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1680864323 source:c:\users\mert\onedrive\belgeler\c folder\uygempty\basamak_sayýsý.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
