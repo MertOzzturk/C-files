@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685647324 source:c:\users\mert\onedrive\belgeler\c folder\lab8.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

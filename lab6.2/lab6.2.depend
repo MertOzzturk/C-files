@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1682542308 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1682543196 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\6.6.c
+	<stdlib.h>
+	<stdio.h>
+
+1682583870 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\6.7.c
+	<stdio.h>
+	<stdlib.h>
+
+1682546881 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\6.8.c
+	<stdio.h>
+	<stdlib.h>
+
+1682583500 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\6.9.c
+	<stdio.h>
+	<stdlib.h>
+
+1682583490 source:c:\users\mert\onedrive\belgeler\c folder\lab6.2\6.10.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

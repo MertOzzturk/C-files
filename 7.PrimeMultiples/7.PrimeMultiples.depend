@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684184296 source:c:\users\mert\onedrive\belgeler\c folder\7.primemultiples\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1684263350 source:c:\users\mert\onedrive\belgeler\c folder\7.primemultiples\primenumbers.c
+	<stdio.h>
+	<stdlib.h>
+
